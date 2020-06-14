@@ -1,6 +1,5 @@
 import React from 'react'
 import axios from 'axios';
-import './../styles/TablesClass.css'
 import 'bootstrap/dist/css/bootstrap.css'
 
 class Game extends React.Component {
